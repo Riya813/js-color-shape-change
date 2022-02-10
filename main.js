@@ -65,20 +65,21 @@ changeShapeDiv.addEventListener('click', function(){
     console.log('yes');
 });
 
-function makeCircle(box){
-    box.style.borderTopLeftRadius='50%';
-    box.style.borderTopRightRadius='50%';
-    box.style.borderBottomLeftRadius='50%';
-    box.style.borderBottomRightRadius='50%';
-}
 
-function makeSquare(box){
-    box.style.borderTopLeftRadius='0%';
-    box.style.borderTopRightRadius='0%';
-    box.style.borderBottomLeftRadius='0%';
-    box.style.borderBottomRightRadius='0%';
-}
+// function makeCircle(box){
+//     box.style.borderTopLeftRadius='50%';
+//     box.style.borderTopRightRadius='50%';
+//     box.style.borderBottomLeftRadius='50%';
+//     box.style.borderBottomRightRadius='50%';
+// }
 
-function makeTriangle(box){
+// function makeSquare(box){
+//     box.style.borderTopLeftRadius='0%';
+//     box.style.borderTopRightRadius='0%';
+//     box.style.borderBottomLeftRadius='0%';
+//     box.style.borderBottomRightRadius='0%';
+// }
 
-}
+// function makeTriangle(box){
+
+// }
